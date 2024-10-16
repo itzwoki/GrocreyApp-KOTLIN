@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998889296553",
+    "project_id": "grocerapp-f1198",
+    "storage_bucket": "grocerapp-f1198.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998889296553:android:189084da9142580f788fb8",
+        "android_client_info": {
+          "package_name": "ghanam.com.abdo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlr3W8DSYCppQF2Tfa6s3fmiwbZkAJPfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
